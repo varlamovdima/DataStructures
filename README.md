@@ -1,6 +1,6 @@
 # Data structures and algorithms 
 
-This repository contains implementation algorithms and data structures using C++
+This repository contains an implementation of algorithms and data structures using C++
 
 ## Environment
 
