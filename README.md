@@ -12,4 +12,5 @@ C++ Compiler: g++ (11.0)
 
 ## Content
 
-0. Singly linked lists
+0. Singly linked list
+1. Simple singly linked list
