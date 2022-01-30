@@ -14,3 +14,4 @@ C++ Compiler: g++ (11.0)
 
 0. Singly linked list
 1. Simple singly linked list
+2. Siple stack
