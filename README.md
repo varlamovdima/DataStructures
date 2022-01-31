@@ -18,3 +18,4 @@ C++ Compiler: g++ (11.0)
 3. Selection sort
 4. Bubble sort
 5. Insertion sort
+6. Merge sort
